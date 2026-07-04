@@ -1,4 +1,5 @@
 {
+  "1.0.8": "Tables are now fully editable, and you can drag to resize your document's width!",
   "1.0.7": "Files you edit outside Doca now refresh automatically, and the AI can edit files you open from outside your workspace!",
   "1.0.6": "AI edits now appear smoothly in place, and opening a file brings Doca to the front!",
   "1.0.5": "Chat scrolling is fixed, and your chat panel is now resizable!"
