@@ -1,4 +1,5 @@
 {
+  "1.0.10": "Your unsaved edits are now safe — they survive restarts and even crashes!",
   "1.0.9": "Bold, italic, and other formatting now display correctly inside table cells!",
   "1.0.8": "Tables are now fully editable, and you can drag to resize your document's width!",
   "1.0.7": "Files you edit outside Doca now refresh automatically, and the AI can edit files you open from outside your workspace!",
