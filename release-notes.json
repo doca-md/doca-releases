@@ -1,4 +1,5 @@
 {
+  "1.1.1": "You can now resize table columns by grabbing any cell edge — not just the header!",
   "1.1.0": "Doca has a fresh new look, and you can now show all your files — not just Markdown — right in the sidebar!",
   "1.0.10": "Your unsaved edits are now safe — they survive restarts and even crashes!",
   "1.0.9": "Bold, italic, and other formatting now display correctly inside table cells!",
